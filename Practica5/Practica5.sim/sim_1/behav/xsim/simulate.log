@@ -1,0 +1,277 @@
+Time resolution is 1 ps
+Error: Sum not 1 for A = 1 B = 0
+Time: 20 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 12 for A = 7 B = 5
+Time: 30 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 75 for A = 50 B = 25
+Time: 40 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 50 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 50 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 0 for A = 0 B = 0
+Time: 60 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 60 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 70 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 12 for A = 7 B = 5
+Time: 80 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 75 for A = 50 B = 25
+Time: 90 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 100 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 100 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 0 for A = 0 B = 0
+Time: 110 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 110 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 120 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 12 for A = 7 B = 5
+Time: 130 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 75 for A = 50 B = 25
+Time: 140 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 150 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 150 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 0 for A = 0 B = 0
+Time: 160 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 160 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 170 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 12 for A = 7 B = 5
+Time: 180 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 75 for A = 50 B = 25
+Time: 190 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 200 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 200 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 0 for A = 0 B = 0
+Time: 210 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 210 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 220 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 12 for A = 7 B = 5
+Time: 230 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 75 for A = 50 B = 25
+Time: 240 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 250 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 250 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 0 for A = 0 B = 0
+Time: 260 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 260 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 270 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 12 for A = 7 B = 5
+Time: 280 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 75 for A = 50 B = 25
+Time: 290 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 300 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 300 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 0 for A = 0 B = 0
+Time: 310 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 310 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 320 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 12 for A = 7 B = 5
+Time: 330 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 75 for A = 50 B = 25
+Time: 340 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 350 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 350 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 0 for A = 0 B = 0
+Time: 360 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 360 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 370 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 12 for A = 7 B = 5
+Time: 380 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 75 for A = 50 B = 25
+Time: 390 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 400 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 400 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 0 for A = 0 B = 0
+Time: 410 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 410 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 420 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 12 for A = 7 B = 5
+Time: 430 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 75 for A = 50 B = 25
+Time: 440 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 450 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 450 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 0 for A = 0 B = 0
+Time: 460 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 460 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 470 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 12 for A = 7 B = 5
+Time: 480 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 75 for A = 50 B = 25
+Time: 490 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 500 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 500 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 0 for A = 0 B = 0
+Time: 510 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 510 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 520 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 12 for A = 7 B = 5
+Time: 530 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 75 for A = 50 B = 25
+Time: 540 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 550 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 550 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 0 for A = 0 B = 0
+Time: 560 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 560 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 570 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 12 for A = 7 B = 5
+Time: 580 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 75 for A = 50 B = 25
+Time: 590 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 600 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 600 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 0 for A = 0 B = 0
+Time: 610 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 610 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 620 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 12 for A = 7 B = 5
+Time: 630 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 75 for A = 50 B = 25
+Time: 640 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 650 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 650 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 0 for A = 0 B = 0
+Time: 660 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 660 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 670 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 12 for A = 7 B = 5
+Time: 680 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 75 for A = 50 B = 25
+Time: 690 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 700 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 700 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 0 for A = 0 B = 0
+Time: 710 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 710 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 720 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 12 for A = 7 B = 5
+Time: 730 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 75 for A = 50 B = 25
+Time: 740 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 750 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 750 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 0 for A = 0 B = 0
+Time: 760 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 760 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 770 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 12 for A = 7 B = 5
+Time: 780 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 75 for A = 50 B = 25
+Time: 790 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 800 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 800 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 0 for A = 0 B = 0
+Time: 810 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 810 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 820 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 12 for A = 7 B = 5
+Time: 830 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 75 for A = 50 B = 25
+Time: 840 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 850 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 850 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 0 for A = 0 B = 0
+Time: 860 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 860 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 870 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 12 for A = 7 B = 5
+Time: 880 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 75 for A = 50 B = 25
+Time: 890 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 900 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 900 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 0 for A = 0 B = 0
+Time: 910 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 910 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 920 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 12 for A = 7 B = 5
+Time: 930 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 75 for A = 50 B = 25
+Time: 940 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 950 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 950 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 0 for A = 0 B = 0
+Time: 960 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Carry Out not 0 for A = 0 B = 0
+Time: 960 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 1 for A = 1 B = 0
+Time: 970 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 12 for A = 7 B = 5
+Time: 980 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 75 for A = 50 B = 25
+Time: 990 ns  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: Sum not 99 for A = 255 B = 100
+Time: 1 us  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd
+Error: C_out not 1 for A = 255 B = 100
+Time: 1 us  Iteration: 0  Process: /tb_byteAdder/stimulus  File: R:/Desktop/Practicas/Practica5/Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd

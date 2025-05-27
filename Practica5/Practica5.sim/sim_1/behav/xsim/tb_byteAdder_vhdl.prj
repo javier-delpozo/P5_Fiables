@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Practica5.srcs/sim_1/imports/byteAdder.xpr/RTL/byteAdder.vhd" \
+"../../../../Practica5.srcs/sources_1/imports/byteAdder.xpr/RTL/fullAdder.vhd" \
+"../../../../Practica5.srcs/sources_1/imports/byteAdder.xpr/RTL/halfAdder.vhd" \
+"../../../../Practica5.srcs/sources_1/imports/byteAdder.xpr/Simulation/tb_byteAdder.vhd" \
+
+# Do not sort compile order
+nosort
